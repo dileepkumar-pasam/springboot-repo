@@ -16,12 +16,12 @@
 
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>NexusRepo</id>
+		    <id>nexusRepo</id>
 		    <url>http://3.84.194.222:8081/repository/repo-maven-dev/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>NexusRepo</id>
+		    <id>nexusRepo</id>
 		    <url>http://3.84.194.222:8081/repository/repo-maven-relese/</url>
 		</repository>
   	</distributionManagement>
